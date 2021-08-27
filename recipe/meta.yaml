@@ -1,5 +1,5 @@
 {% set name = "types-Routes" %}
-{% set version = "0.1.7" %}
+{% set version = "2.5.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/types-Routes-{{ version }}.tar.gz
-  sha256: 2c762baac6e31b544966bd0171b60edaffad3fd8b8670fbb0048860c1f885859
+  sha256: df7ab143c02821a749a4ba7c26fc697c2482c8fcb8f3032c509eecfcaf6d5951
 
 build:
   number: 0
